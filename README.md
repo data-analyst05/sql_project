@@ -13,9 +13,8 @@ This project involves the design, creation, and analysis of a relational databas
 5. [Getting Started](#getting-started)
 6. [Dependencies](#dependencies)
 7. [Installation](#installation)
-8. [SQL Table Schemas](#Sql_table)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [SQL Table](#sql_table)
+
 
 ## Data Modeling
 
@@ -52,7 +51,7 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/data-analyst05/sql_project.git
 
-### SQL Table Schemas
+### Sql_table
 
 ```sql
 -- Create a table to store department information.
